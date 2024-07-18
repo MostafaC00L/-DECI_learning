@@ -1,0 +1,31 @@
+body {
+  background-color: lightgrey;
+}
+p {
+  border-style: solid;
+  border-color: red;
+}
+
+p2 {
+  border-style: solid;
+  border-color: green;
+}
+
+p3 {
+  border-style: dotted;
+  border-color: blue;
+}
+h2 {
+  border-style: solid;
+  border-color: red;
+}
+
+h3 {
+  border-style: solid;
+  border-color: green;
+}
+
+h1 {
+  border-style: dotted;
+  border-color: blue;
+}
